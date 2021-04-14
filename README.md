@@ -2,8 +2,6 @@
 WPM der HFU Sommersemester 2021   
 https://juuland.github.io/The-Fundamentals-of-IoT/
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="hhttps://drive.google.com/file/d/1dnzhJnxEwYpZe0BnAb4N-gC274Q3ADvu/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+
+https://user-images.githubusercontent.com/45287522/114733060-4fac6580-9d43-11eb-8438-9868e9fa4818.mp4
+
