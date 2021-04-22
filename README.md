@@ -8,5 +8,7 @@ WPM der HFU Sommersemester 2021
 + [GUI-Website with Ecletic Electrics](https://xd.adobe.com/view/54ed71b6-f2c6-447b-87cd-897d87233dd2-01be/screen/44e55834-4ec3-4939-94e4-6863cbe902e5)
 + [Use-Case-Diagram with Ecletic Electrics](https://manuel-pross.github.io/fundOfIoT_manuel_daniel/Konzept/wanderschild_use_case_diagramm.pdf)
 + [low fidelty construction plan](https://github.com/JuulAnd/The-Fundamentals-of-IoT/blob/main/CloudClub_EcleticElectrics_IoT%20Vogelz%C3%A4hler_Bauplan.pdf)
++ [presentation slides Acoustic Transducers](https://github.com/JuulAnd/The-Fundamentals-of-IoT/blob/main/Presentation_Acoustic_Transducers.pdf)
++ 
 
 
