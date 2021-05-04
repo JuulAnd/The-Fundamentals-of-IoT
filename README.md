@@ -9,6 +9,7 @@ WPM der HFU Sommersemester 2021
 + [Use-Case-Diagram with Ecletic Electrics](https://manuel-pross.github.io/fundOfIoT_manuel_daniel/Konzept/wanderschild_use_case_diagramm.pdf)
 + [low fidelty construction plan](https://github.com/JuulAnd/The-Fundamentals-of-IoT/blob/main/CloudClub_EcleticElectrics_IoT%20Vogelz%C3%A4hler_Bauplan.pdf)
 + [presentation slides Acoustic Transducers](https://github.com/JuulAnd/The-Fundamentals-of-IoT/blob/main/Presentation_Acoustic_Transducers.pdf)
-+ 
-
++ [Gehäuse + Bauteile for Laser Cutter](https://github.com/JuulAnd/The-Fundamentals-of-IoT/blob/main/CloudClub_Schild_Gehauese%2BGrafiken/)
++ [Final Draft](https://github.com/JuulAnd/The-Fundamentals-of-IoT/blob/main/CloudClub_Schild_Gehauese%2BGrafiken/CloudClub_Entwurf.svg)
++ ![Alt text here](https://github.com/JuulAnd/The-Fundamentals-of-IoT/blob/main/CloudClub_Schild_Gehauese%2BGrafiken/CloudClub_Entwurf.svg)
 
